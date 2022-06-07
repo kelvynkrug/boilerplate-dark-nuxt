@@ -1,0 +1,10 @@
+:root {
+  --gray: #f7f7f8;
+  --strong-gray: #9698a2;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../fonts/Inter.ttf') format('truetype');
+  font-weight: normal;
+}
